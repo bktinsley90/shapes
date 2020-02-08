@@ -1,0 +1,86 @@
+.graybox{
+    color:white;
+    background-color: gray;
+    padding: 20px 10px;
+    border-bottom: 8px solid black;
+}
+.footer{
+    
+background-color: gray;
+    padding: 20px 10px;
+    border-top: 3px solid black;
+    
+}
+.footer a {
+    color: white;
+}
+
+.squarebox {
+    background-color: #ffa500;
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+    margin: 50px;
+}
+.squareborder {
+    background-color: #ffa500;
+    width: 200px;
+    height: 200px;
+    border: 10px solid blue;
+    padding: 20px;
+    margin: 50px;
+}
+.circle {
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    border-radius: 50%;
+    padding: 20px;
+    margin: 50px;
+}
+.circleborder {
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    border-radius: 50%;
+    padding: 20px;
+    margin: 50px;
+    border: 8px solid #ffa500;
+}
+#circlesquare{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    border-radius: 50%;
+    padding: 20px;
+    margin: 50px;
+    
+}
+.circlesquare2 {
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+    margin: 50px;
+    position: absolute;
+    top: 200px;
+    left:50px;
+    overflow: hidden;
+}
+.largebox {
+    background-color: #ffa500;
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+    margin: 50px;
+}
+.smallbox {
+    background-color: green;
+    width: 50px;
+    height: 50px;
+    padding: 20px;
+    margin: 50px;
+    position: absolute;
+    top: 140px;
+    left: 160px;
+}
